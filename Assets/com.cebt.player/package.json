@@ -1,0 +1,18 @@
+{
+  "name": "com.cebt.player",
+  "version": "1.0.0",
+  "displayName": "Cebt Player Controls",
+  "description": "Stuff to help create player controllers",
+  "unity": "6000.0",
+  "unityRelease": "29f1",
+  "keywords": [
+    "playercontrol"
+  ],
+  "author": {
+    "name": "Casper Thamdrup aka Cebt",
+    "email": "kontakt@cebt.dk"
+  },
+  "dependencies": {
+    "com.unity.inputsystem": "1.11.2"
+  }
+}
